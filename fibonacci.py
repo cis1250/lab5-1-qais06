@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+
+# Fibonacci sequence with functions
+# TODO: (Read detailed instructions in the Readme file)
+
 def get_user_input():
     """Ask the user for a positive integer and validate it."""
     while True:
@@ -38,7 +43,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-#!/usr/bin/env python3
-
-# Fibonacci Sequence Exercise with functions
-# TODO: (Read detailed instructions in the Readme file)
